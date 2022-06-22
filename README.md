@@ -1,6 +1,6 @@
 # confluent-aws-workshop
 
-This repo includes a Cloudformation template for [Introduction to Building Data in Motion applications with Confluent on AWS](https://confluent.awsworkshop.io/) workshop. The template creates all the neceasary AWS resources for the workshop to work. This is an updated version of the cfn template included in workshop. 
+This repo includes the Cloudformation templates for [Introduction to Building Data in Motion applications with Confluent on AWS](https://confluent.awsworkshop.io/) workshop. Each template creates all the neceasary AWS resources for the workshop to work in a specific region. This is an updated version of the cfn template included in workshop. 
 
 The following changes were made:
 
