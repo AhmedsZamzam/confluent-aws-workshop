@@ -7,4 +7,4 @@ The following changes were made:
 1. Added prefix parameter to be used as a prefix to some of the resources on AWS. This allows multiple deployments in the same AWS region.
 2. Added email parameter to be used in resources that support tags.
 
-Like the workshop the templates only works with us-east-1, us-east-2 and us-west-2 AWS regions.
+Like the workshop the templates works with 3 AWS regions; us-east-1, us-east-2 and us-west-2.
